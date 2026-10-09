@@ -5,13 +5,13 @@ I am a Data Engineer specializing in building scalable data pipelines, data extr
 What I can help you with:
 
 • Data Pipeline Development
-Designing and implementing robust ETL/ELT pipelines using Python, workflow orchestrators
+Designing and implementing robust ETL/ELT pipelines using Python and workflow orchestrators
 
 • Workflow Orchestration
-Building and maintaining scalable workflows using Apache Airflow or Prefect. And Kafka for real-time streaming pipelines.
+Building and maintaining scalable workflows using Apache Airflow or Prefect, and Kafka for real-time streaming pipelines.
 
 • Large-Scale Web Scraping Systems
-Creating resilient scrapers for social media, and web platforms with rate-limit handling, high concurrency, proxy rotation, browser fingerprinting simulation, headless browser, and bot-dectection bypass strategies.
+Creating resilient scrapers for social media and web platforms with rate-limit handling, high concurrency, proxy rotation, browser fingerprinting simulation, headless browser, and bot-detection bypass strategies.
 
 • Data Processing & Transformation
 Cleaning, structuring, and transforming raw data into production-ready datasets.
